@@ -7,7 +7,7 @@ These scripts were created in order to support the selection of coin trading lis
 Install requirements with 
 
 ```python
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 The scripts are python notebooks, whilst they use python 3, you will need jupyter notebook (or something that reads notebook docs) to access it.
